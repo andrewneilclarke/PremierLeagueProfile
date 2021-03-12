@@ -1,5 +1,5 @@
 __pycache__/
 .secret/
-football.py
 .ipynb_checkpoints/
+league_table.ipynb
 .gitignore/
