@@ -1,28 +1,3 @@
-import json
-from football import Team
-
-#retrieve file data
-file = 'league_table.json'
-with open(file, 'r') as f:
-	league_data = json.load(f)
-
-# export teams data (first level)
-teams_data = league_data['league-table']['teams']
-file = 'teams_data.json'
-with open(file, 'w') as f:
-	json.dump(teams_data, f)
-
-teams = [] 
-
-#make team instances
-for team in teams_data:
-	team = Team(team['id'], team['position'], team['total-points'], team['name'])
-	teams.append(team)
-#print(teams_data[0])
-
-for team in teams_data:
-	for k, v in team['all-matches'].items():
-		team.lost = 'lost'
 
 
 #for team in teams:
