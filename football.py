@@ -24,6 +24,18 @@ class Team:
         self.gf = teams_data[self.position -1]['all-matches']['for']
         self.ga = teams_data[self.position -1]['all-matches']['against']
         self.gd = teams_data[self.position -1]['all-matches']['goal-difference']
+        self.homeplayed = teams_data[self.position -1]['home-matches']['played']
+        self.homewon = teams_data[self.position -1]['home-matches']['won']
+        self.homedrawn = teams_data[self.position -1]['home-matches']['drawn']
+        self.homelost = teams_data[self.position -1]['home-matches']['lost']
+        self.homefor = teams_data[self.position -1]['home-matches']['for']
+        self.awayagainst = teams_data[self.position -1]['away-matches']['against']
+        self.awayplayed = teams_data[self.position -1]['away-matches']['played']
+        self.awaywon = teams_data[self.position -1]['away-matches']['won']
+        self.awaydrawn = teams_data[self.position -1]['away-matches']['drawn']
+        self.awaylost = teams_data[self.position -1]['away-matches']['lost']
+        self.awayfor = teams_data[self.position -1]['away-matches']['for']
+        self.awayagainst = teams_data[self.position -1]['away-matches']['against']        
 
     def get_descriptive_name(self):
         """Return a neatly formatted team description """
@@ -47,15 +59,15 @@ class Team:
     #marks out of 10
     def defence_rating(self):
         return 10 - (self.ga / self.played) * 4
-    """
+
     @property
     def home_rating(self):
-        return (self.hpoints / self.hgamesp) * 6
+        return ((self.homewon) * 3) + (self.homedrawn) / (self.homeplayed) * 6
 
     @property
     def away_rating(self):
-        return (self.apoints / self.agamesp) * 6
-    """
+        return round((self.awaywon) * 3) + (self.awaydrawn)  / (self.awayplayed) * 6
+  
     def calculate_home_team(self):
         return str(int(round((self.position_rating + self.form_rating + self.goal_threat_rating + self.defence_rating + self.home_rating), -1)/10))
 
@@ -73,8 +85,13 @@ for team in teams_data:
 # for team in teams:
 #     print(team.name, team.played, team.won, team.drawn, team.lost, team.ga, team.gf, team.gd)
 
+# # print defence ratings
+# for team in teams:
+#     print(team.defence_rating)
+
+# print defence ratings
 for team in teams:
-    print(team.defence_rating)
+    print(team.away_rating)
 
 # print('Burnley: ' + Burnley.calculate_home_team())
 # print('Arsenal: ' + Arsenal.calculate_away_team() + '\n')
