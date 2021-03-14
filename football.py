@@ -31,6 +31,7 @@ with open(file, 'r') as f:
   predictions_data = json.load(f)
 predictions = predictions_data['api']['predictions']
 
+# create team class
 class Team:
     def __init__(self, position, total_points, name):
         self.name = name
@@ -94,13 +95,13 @@ class Team:
     def away_team(self):
         return str(int(round(self.position_rating + self.form_rating + self.goal_threat_rating + self.defence_rating + self.away_rating, -1)/10))
 
-
 #create team instances
 teams = [] 
 for team in teams_data:
     team = Team(team['position'], team['total-points'], team['name'])
     teams.append(team)
 
+# function to print table
 def print_table():
     print('Team Name   P  W  D  L  F  A  GD  FORM')
     for team in teams:
@@ -110,22 +111,5 @@ def print_table():
 # for team in teams:
 #   print(team.name + team.home_team())
 
-
 #print_table()
 print(predictions[0]['advice'])
-
-# print('Arsenal: ' + Arsenal.calculate_away_team() + '\n')
-# print('SheffU: ' + SheffU.calculate_home_team())
-# print('Southampton: ' + Southampton.calculate_away_team() + '\n')
-# print('AstonV: ' + AstonV.calculate_home_team())
-# print('Wolves: ' + Wolves.calculate_away_team() + '\n')
-# print('Brighton: ' + Brighton.calculate_home_team())
-# print('Leicester: ' + Leicester.calculate_away_team() + '\n')
-# print('WestBrom: ' + WestBrom.calculate_home_team())
-# print('Newcastle: ' + Newcastle.calculate_away_team() + '\n')
-# print('Liverpool: ' + Liverpool.calculate_home_team())
-# print('Fulham: ' + Fulham.calculate_away_team() + '\n')
-# print('Manure: ' + Manure.calculate_home_team())
-# print('ManchesterCity: ' + ManchesterCity.calculate_away_team() + '\n')
-# print('Spurs: ' + Spurs.calculate_home_team())
-# print('CPalace: ' + CPalace.calculate_away_team() + '\n')

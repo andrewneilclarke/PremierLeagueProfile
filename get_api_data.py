@@ -24,6 +24,7 @@ r2 = requests.request("GET", form_url, headers=headers, params=querystring)
 querystring = {"comp":"1","team":"1","round":"1"}
 r3 = requests.request("GET", fixtures_url, headers=headers, params=querystring)
 
+
 # get predictions
 predictions_url = "https://api-football-v1.p.rapidapi.com/v2/predictions/157462"
 headers = {
