@@ -1,0 +1,1559 @@
+{
+    "fixtures-results": {
+        "team": {
+            "name": "Arsenal",
+            "id": 1
+        },
+        "matches": [
+            {
+                "date": "2020-08-29",
+                "venue": "Wembley Stadium",
+                "round": {
+                    "name": "Final",
+                    "id": 41
+                },
+                "competition": {
+                    "name": "Community Shield",
+                    "id": 29
+                },
+                "id": 343994,
+                "time": "16:30",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1,
+                    "penalties-score": 5
+                },
+                "referee": "A. Marriner",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Liverpool",
+                    "id": 11,
+                    "penalties-score": 4
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-09-12",
+                "venue": "Craven Cottage",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352250,
+                "time": "12:30",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Fulham",
+                    "id": 10
+                },
+                "referee": "Chris Kavanagh",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-09-19",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 362059,
+                "time": "20:00",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Michael Oliver",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "West Ham United",
+                    "id": 42
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-09-23",
+                "venue": "King Power Stadium",
+                "round": {
+                    "name": "Third Round",
+                    "id": 29
+                },
+                "competition": {
+                    "name": "Carabao Cup",
+                    "id": 22
+                },
+                "id": 364002,
+                "time": "19:45",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Leicester City",
+                    "id": 30
+                },
+                "referee": "P. Bankes",
+                "away-team": {
+                    "score": 2,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-09-28",
+                "venue": "Anfield",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 359925,
+                "time": "20:00",
+                "home-team": {
+                    "score": 3,
+                    "half-time-score": 2,
+                    "name": "Liverpool",
+                    "id": 11
+                },
+                "referee": "Craig Pawson",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-01",
+                "venue": "Anfield",
+                "round": {
+                    "name": "Fourth Round",
+                    "id": 31
+                },
+                "competition": {
+                    "name": "Carabao Cup",
+                    "id": 22
+                },
+                "id": 364360,
+                "time": "19:45",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Liverpool",
+                    "id": 11,
+                    "penalties-score": 4
+                },
+                "referee": "K. Friend",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1,
+                    "penalties-score": 5
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-04",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 364211,
+                "time": "14:00",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Lee Mason",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Sheffield United",
+                    "id": 38
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-17",
+                "venue": "Etihad Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352293,
+                "time": "17:30",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Manchester City",
+                    "id": 12
+                },
+                "referee": "Chris Kavanagh",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-22",
+                "venue": "Allianz Stadion",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 365884,
+                "time": "17:55",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Rapid Vienna",
+                    "id": 653
+                },
+                "referee": "Pavel Kralovec",
+                "away-team": {
+                    "score": 2,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-25",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 365431,
+                "time": "19:15",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Craig Pawson",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Leicester City",
+                    "id": 30
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-10-29",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 366032,
+                "time": "20:00",
+                "home-team": {
+                    "score": 3,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Filip Glova",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Dundalk",
+                    "id": 1459
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-01",
+                "venue": "Old Trafford",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 364758,
+                "time": "16:30",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Manchester United",
+                    "id": 13
+                },
+                "referee": "Mike Dean",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-05",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 366135,
+                "time": "20:00",
+                "home-team": {
+                    "score": 4,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Halil Umut Meler",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Molde",
+                    "id": 1231
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-08",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 366532,
+                "time": "19:15",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Martin Atkinson",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 1,
+                    "name": "Aston Villa",
+                    "id": 2
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-22",
+                "venue": "Elland Road",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 366380,
+                "time": "16:30",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Leeds United",
+                    "id": 29
+                },
+                "referee": "Anthony Taylor",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-26",
+                "venue": "Aker Stadion",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 366147,
+                "time": "17:55",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Molde",
+                    "id": 1231
+                },
+                "referee": "Irfan Peljto",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-11-29",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 367854,
+                "time": "19:15",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Michael Oliver",
+                "away-team": {
+                    "score": 2,
+                    "half-time-score": 2,
+                    "name": "Wolverhampton Wanderers",
+                    "id": 44
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-03",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 366183,
+                "time": "20:00",
+                "home-team": {
+                    "score": 4,
+                    "half-time-score": 3,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Radu Marian Petrescu",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Rapid Vienna",
+                    "id": 653
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-06",
+                "venue": "Tottenham Hotspur Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 367820,
+                "time": "16:30",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 2,
+                    "name": "Tottenham Hotspur",
+                    "id": 19
+                },
+                "referee": "Martin Atkinson",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 2000,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-10",
+                "venue": "Aviva Stadium",
+                "round": {
+                    "name": "Group B",
+                    "id": 14
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 366195,
+                "time": "17:55",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 1,
+                    "name": "Dundalk",
+                    "id": 1459
+                },
+                "referee": "Ivan Bebek",
+                "away-team": {
+                    "score": 4,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-13",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 359926,
+                "time": "19:15",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Graham Scott",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Burnley",
+                    "id": 22
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-16",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 367828,
+                "time": "18:00",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Paul Tierney",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Southampton",
+                    "id": 18
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-19",
+                "venue": "Goodison Park",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352382,
+                "time": "17:30",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 2,
+                    "name": "Everton",
+                    "id": 9
+                },
+                "referee": "Andre Marriner",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-22",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Quarter Final",
+                    "id": 37
+                },
+                "competition": {
+                    "name": "Carabao Cup",
+                    "id": 22
+                },
+                "id": 366053,
+                "time": "20:00",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Stuart Attwell",
+                "away-team": {
+                    "score": 4,
+                    "half-time-score": 1,
+                    "name": "Manchester City",
+                    "id": 12
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-26",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352388,
+                "time": "17:30",
+                "home-team": {
+                    "score": 3,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Michael Oliver",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2020-12-29",
+                "venue": "The American Express Community Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 367845,
+                "time": "18:00",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Brighton & Hove Albion",
+                    "id": 21
+                },
+                "referee": "Martin Atkinson",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-02",
+                "venue": "The Hawthorns",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352417,
+                "time": "20:00",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "West Bromwich Albion",
+                    "id": 20
+                },
+                "referee": "Martin Atkinson",
+                "away-team": {
+                    "score": 4,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-09",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Third Round",
+                    "id": 29
+                },
+                "competition": {
+                    "name": "Emirates FA Cup",
+                    "id": 21
+                },
+                "id": 367936,
+                "time": "17:30",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Chris Kavanagh",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Newcastle United",
+                    "id": 15
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT (AET)",
+                    "full": "Full Time (AET)"
+                }
+            },
+            {
+                "date": "2021-01-14",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 368732,
+                "time": "20:00",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Andre Marriner",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Crystal Palace",
+                    "id": 8
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-18",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 368737,
+                "time": "20:00",
+                "home-team": {
+                    "score": 3,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "David Coote",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Newcastle United",
+                    "id": 15
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-23",
+                "venue": "St. Mary's Stadium",
+                "round": {
+                    "name": "Fourth Round",
+                    "id": 31
+                },
+                "competition": {
+                    "name": "Emirates FA Cup",
+                    "id": 21
+                },
+                "id": 370854,
+                "time": "12:15",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Southampton",
+                    "id": 18
+                },
+                "referee": "Peter Bankes",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-26",
+                "venue": "St. Mary's Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 368744,
+                "time": "20:15",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Southampton",
+                    "id": 18
+                },
+                "referee": "Kevin Friend",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-01-30",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352449,
+                "time": "17:30",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Michael Oliver",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Manchester United",
+                    "id": 13
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-02",
+                "venue": "Molineux Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352464,
+                "time": "18:00",
+                "home-team": {
+                    "score": 2,
+                    "half-time-score": 1,
+                    "name": "Wolverhampton Wanderers",
+                    "id": 44
+                },
+                "referee": "Craig Pawson",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-06",
+                "venue": "Villa Park",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352469,
+                "time": "12:30",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Aston Villa",
+                    "id": 2
+                },
+                "referee": "Chris Kavanagh",
+                "away-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-14",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 370878,
+                "time": "16:30",
+                "home-team": {
+                    "score": 4,
+                    "half-time-score": 3,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Stuart Attwell",
+                "away-team": {
+                    "score": 2,
+                    "half-time-score": 0,
+                    "name": "Leeds United",
+                    "id": 29
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-18",
+                "venue": "Stadio Olimpico",
+                "round": {
+                    "name": "Round of 32",
+                    "id": 49
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 368605,
+                "time": "20:00",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Benfica",
+                    "id": 492
+                },
+                "referee": "C. \u00c7ak\u03b9r",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-21",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 370881,
+                "time": "16:30",
+                "home-team": {
+                    "score": 0,
+                    "half-time-score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Jonathan Moss",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Manchester City",
+                    "id": 12
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-25",
+                "venue": "Stadio Georgios Karaisk\u00e1ki",
+                "round": {
+                    "name": "Round of 32",
+                    "id": 49
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 368614,
+                "time": "17:55",
+                "home-team": {
+                    "score": 3,
+                    "aggregate-score": 4,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "Bjorn Kuipers",
+                "away-team": {
+                    "score": 2,
+                    "aggregate-score": 3,
+                    "half-time-score": 1,
+                    "name": "Benfica",
+                    "id": 492
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-02-28",
+                "venue": "King Power Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 371104,
+                "time": "12:00",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Leicester City",
+                    "id": 30
+                },
+                "referee": "Paul Tierney",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 2,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-03-06",
+                "venue": "Turf Moor",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352511,
+                "time": "12:30",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Burnley",
+                    "id": 22
+                },
+                "referee": "Andre Marriner",
+                "away-team": {
+                    "score": 1,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-03-11",
+                "venue": "Georgios Karaiskakis",
+                "round": {
+                    "name": "Round of 16",
+                    "id": 51
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 371614,
+                "time": "20:00",
+                "home-team": {
+                    "score": 1,
+                    "half-time-score": 0,
+                    "name": "Olympiakos",
+                    "id": 923
+                },
+                "referee": "Daniel Siebert",
+                "away-team": {
+                    "score": 3,
+                    "half-time-score": 1,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "FT",
+                    "full": "Full Time"
+                }
+            },
+            {
+                "date": "2021-03-14",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 371525,
+                "time": "16:30",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "referee": "M. Oliver",
+                "away-team": {
+                    "score": 0,
+                    "name": "Tottenham Hotspur",
+                    "id": 19
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "4.30pm",
+                    "full": "Kick off 4.30pm"
+                }
+            },
+            {
+                "date": "2021-03-18",
+                "venue": "Emirates Stadium",
+                "round": {
+                    "name": "Round of 16",
+                    "id": 51
+                },
+                "competition": {
+                    "name": "Europa League",
+                    "id": 25
+                },
+                "id": 371616,
+                "time": "17:55",
+                "home-team": {
+                    "score": 0,
+                    "aggregate-score": 3,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "aggregate-score": 1,
+                    "name": "Olympiakos",
+                    "id": 923
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "5.55pm",
+                    "full": "Kick off 5.55pm"
+                }
+            },
+            {
+                "date": "2021-03-21",
+                "venue": "London Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 371528,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "West Ham United",
+                    "id": 42
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-04-03",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352539,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Liverpool",
+                    "id": 11
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-04-10",
+                "venue": "Bramall Lane",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352555,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Sheffield United",
+                    "id": 38
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-04-17",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352559,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Fulham",
+                    "id": 10
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-04-24",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352569,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Everton",
+                    "id": 9
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-05-01",
+                "venue": "St. James' Park",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352585,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Newcastle United",
+                    "id": 15
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-05-08",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352589,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "West Bromwich Albion",
+                    "id": 20
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-05-12",
+                "venue": "Stamford Bridge",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352604,
+                "time": "19:45",
+                "home-team": {
+                    "score": 0,
+                    "name": "Chelsea",
+                    "id": 7
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "7.45pm",
+                    "full": "Kick off 7.45pm"
+                }
+            },
+            {
+                "date": "2021-05-15",
+                "venue": "Selhurst Park",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352612,
+                "time": "15:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Crystal Palace",
+                    "id": 8
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "3pm",
+                    "full": "Kick off 3pm"
+                }
+            },
+            {
+                "date": "2021-05-23",
+                "venue": "Emirates Stadium",
+                "competition": {
+                    "name": "Premier League",
+                    "id": 1
+                },
+                "id": 352619,
+                "time": "16:00",
+                "home-team": {
+                    "score": 0,
+                    "name": "Arsenal",
+                    "id": 1
+                },
+                "away-team": {
+                    "score": 0,
+                    "name": "Brighton & Hove Albion",
+                    "id": 21
+                },
+                "attendance": 0,
+                "status": {
+                    "short": "4pm",
+                    "full": "Kick off 4pm"
+                }
+            }
+        ]
+    }
+}

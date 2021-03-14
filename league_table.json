@@ -5,11 +5,11 @@
                 "all-matches": {
                     "lost": 3,
                     "against": 21,
-                    "goal-difference": 40,
-                    "won": 21,
-                    "for": 61,
+                    "goal-difference": 43,
+                    "won": 22,
+                    "for": 64,
                     "drawn": 5,
-                    "played": 29
+                    "played": 30
                 },
                 "zone": "Promotion",
                 "name": "Manchester City",
@@ -24,14 +24,46 @@
                 "away-matches": {
                     "lost": 1,
                     "against": 8,
-                    "won": 9,
-                    "for": 25,
+                    "won": 10,
+                    "for": 28,
                     "drawn": 3,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 12,
                 "position": 1,
-                "total-points": 68
+                "total-points": 71
+            },
+            {
+                "all-matches": {
+                    "lost": 7,
+                    "against": 32,
+                    "goal-difference": 21,
+                    "won": 17,
+                    "for": 53,
+                    "drawn": 5,
+                    "played": 29
+                },
+                "zone": "Promotion",
+                "name": "Leicester City",
+                "home-matches": {
+                    "lost": 6,
+                    "against": 19,
+                    "won": 7,
+                    "for": 25,
+                    "drawn": 1,
+                    "played": 14
+                },
+                "away-matches": {
+                    "lost": 1,
+                    "against": 13,
+                    "won": 10,
+                    "for": 28,
+                    "drawn": 4,
+                    "played": 15
+                },
+                "id": 30,
+                "position": 2,
+                "total-points": 56
             },
             {
                 "all-matches": {
@@ -62,40 +94,8 @@
                     "played": 15
                 },
                 "id": 13,
-                "position": 2,
-                "total-points": 54
-            },
-            {
-                "all-matches": {
-                    "lost": 7,
-                    "against": 32,
-                    "goal-difference": 16,
-                    "won": 16,
-                    "for": 48,
-                    "drawn": 5,
-                    "played": 28
-                },
-                "zone": "Promotion",
-                "name": "Leicester City",
-                "home-matches": {
-                    "lost": 6,
-                    "against": 19,
-                    "won": 6,
-                    "for": 20,
-                    "drawn": 1,
-                    "played": 13
-                },
-                "away-matches": {
-                    "lost": 1,
-                    "against": 13,
-                    "won": 10,
-                    "for": 28,
-                    "drawn": 4,
-                    "played": 15
-                },
-                "id": 30,
                 "position": 3,
-                "total-points": 53
+                "total-points": 54
             },
             {
                 "all-matches": {
@@ -104,8 +104,8 @@
                     "goal-difference": 19,
                     "won": 14,
                     "for": 44,
-                    "drawn": 8,
-                    "played": 28
+                    "drawn": 9,
+                    "played": 29
                 },
                 "zone": "Promotion",
                 "name": "Chelsea",
@@ -122,12 +122,12 @@
                     "against": 14,
                     "won": 7,
                     "for": 19,
-                    "drawn": 3,
-                    "played": 14
+                    "drawn": 4,
+                    "played": 15
                 },
                 "id": 7,
                 "position": 4,
-                "total-points": 50
+                "total-points": 51
             },
             {
                 "all-matches": {
@@ -163,23 +163,23 @@
             },
             {
                 "all-matches": {
-                    "lost": 9,
-                    "against": 35,
-                    "goal-difference": 4,
+                    "lost": 10,
+                    "against": 37,
+                    "goal-difference": 3,
                     "won": 14,
-                    "for": 39,
+                    "for": 40,
                     "drawn": 4,
-                    "played": 27
+                    "played": 28
                 },
                 "zone": "Play-offs",
                 "name": "Everton",
                 "home-matches": {
-                    "lost": 6,
-                    "against": 20,
+                    "lost": 7,
+                    "against": 22,
                     "won": 5,
-                    "for": 18,
+                    "for": 19,
                     "drawn": 2,
-                    "played": 13
+                    "played": 14
                 },
                 "away-matches": {
                     "lost": 3,
@@ -260,12 +260,12 @@
             {
                 "all-matches": {
                     "lost": 10,
-                    "against": 27,
+                    "against": 28,
                     "goal-difference": 11,
                     "won": 12,
-                    "for": 38,
-                    "drawn": 4,
-                    "played": 26
+                    "for": 39,
+                    "drawn": 5,
+                    "played": 27
                 },
                 "zone": "Play-offs (down)",
                 "name": "Aston Villa",
@@ -279,15 +279,15 @@
                 },
                 "away-matches": {
                     "lost": 5,
-                    "against": 11,
+                    "against": 12,
                     "won": 7,
-                    "for": 18,
-                    "drawn": 2,
-                    "played": 14
+                    "for": 19,
+                    "drawn": 3,
+                    "played": 15
                 },
                 "id": 2,
                 "position": 9,
-                "total-points": 40
+                "total-points": 41
             },
             {
                 "all-matches": {
@@ -323,13 +323,45 @@
             },
             {
                 "all-matches": {
+                    "lost": 12,
+                    "against": 47,
+                    "goal-difference": -16,
+                    "won": 10,
+                    "for": 31,
+                    "drawn": 7,
+                    "played": 29
+                },
+                "zone": "Play-offs (down)",
+                "name": "Crystal Palace",
+                "home-matches": {
+                    "lost": 5,
+                    "against": 21,
+                    "won": 5,
+                    "for": 15,
+                    "drawn": 5,
+                    "played": 15
+                },
+                "away-matches": {
+                    "lost": 7,
+                    "against": 26,
+                    "won": 5,
+                    "for": 16,
+                    "drawn": 2,
+                    "played": 14
+                },
+                "id": 8,
+                "position": 11,
+                "total-points": 37
+            },
+            {
+                "all-matches": {
                     "lost": 14,
                     "against": 46,
                     "goal-difference": -3,
                     "won": 11,
                     "for": 43,
-                    "drawn": 2,
-                    "played": 27
+                    "drawn": 3,
+                    "played": 28
                 },
                 "zone": "Play-offs (down)",
                 "name": "Leeds United",
@@ -338,8 +370,8 @@
                     "against": 17,
                     "won": 5,
                     "for": 19,
-                    "drawn": 2,
-                    "played": 13
+                    "drawn": 3,
+                    "played": 14
                 },
                 "away-matches": {
                     "lost": 8,
@@ -350,8 +382,8 @@
                     "played": 14
                 },
                 "id": 29,
-                "position": 11,
-                "total-points": 35
+                "position": 12,
+                "total-points": 36
             },
             {
                 "all-matches": {
@@ -382,60 +414,28 @@
                     "played": 15
                 },
                 "id": 44,
-                "position": 12,
+                "position": 13,
                 "total-points": 35
             },
             {
                 "all-matches": {
-                    "lost": 12,
-                    "against": 47,
-                    "goal-difference": -17,
+                    "lost": 14,
+                    "against": 51,
+                    "goal-difference": -15,
                     "won": 9,
-                    "for": 30,
-                    "drawn": 7,
-                    "played": 28
-                },
-                "zone": "Play-offs (down)",
-                "name": "Crystal Palace",
-                "home-matches": {
-                    "lost": 5,
-                    "against": 21,
-                    "won": 4,
-                    "for": 14,
-                    "drawn": 5,
-                    "played": 14
-                },
-                "away-matches": {
-                    "lost": 7,
-                    "against": 26,
-                    "won": 5,
-                    "for": 16,
-                    "drawn": 2,
-                    "played": 14
-                },
-                "id": 8,
-                "position": 13,
-                "total-points": 34
-            },
-            {
-                "all-matches": {
-                    "lost": 13,
-                    "against": 49,
-                    "goal-difference": -14,
-                    "won": 9,
-                    "for": 35,
+                    "for": 36,
                     "drawn": 6,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Play-offs (down)",
                 "name": "Southampton",
                 "home-matches": {
-                    "lost": 6,
-                    "against": 16,
+                    "lost": 7,
+                    "against": 18,
                     "won": 5,
-                    "for": 17,
+                    "for": 18,
                     "drawn": 2,
-                    "played": 13
+                    "played": 14
                 },
                 "away-matches": {
                     "lost": 7,
@@ -452,12 +452,12 @@
             {
                 "all-matches": {
                     "lost": 12,
-                    "against": 36,
-                    "goal-difference": -16,
-                    "won": 7,
-                    "for": 20,
+                    "against": 37,
+                    "goal-difference": -15,
+                    "won": 8,
+                    "for": 22,
                     "drawn": 9,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Play-offs (down)",
                 "name": "Burnley",
@@ -471,57 +471,25 @@
                 },
                 "away-matches": {
                     "lost": 7,
-                    "against": 20,
-                    "won": 3,
-                    "for": 8,
-                    "drawn": 3,
-                    "played": 13
-                },
-                "id": 22,
-                "position": 15,
-                "total-points": 30
-            },
-            {
-                "all-matches": {
-                    "lost": 14,
-                    "against": 44,
-                    "goal-difference": -17,
-                    "won": 7,
-                    "for": 27,
-                    "drawn": 6,
-                    "played": 27
-                },
-                "zone": "Play-offs (down)",
-                "name": "Newcastle United",
-                "home-matches": {
-                    "lost": 6,
-                    "against": 22,
+                    "against": 21,
                     "won": 4,
-                    "for": 16,
-                    "drawn": 3,
-                    "played": 13
-                },
-                "away-matches": {
-                    "lost": 8,
-                    "against": 22,
-                    "won": 3,
-                    "for": 11,
+                    "for": 10,
                     "drawn": 3,
                     "played": 14
                 },
-                "id": 15,
-                "position": 16,
-                "total-points": 27
+                "id": 22,
+                "position": 15,
+                "total-points": 33
             },
             {
                 "all-matches": {
                     "lost": 11,
-                    "against": 35,
-                    "goal-difference": -8,
-                    "won": 5,
-                    "for": 27,
+                    "against": 36,
+                    "goal-difference": -7,
+                    "won": 6,
+                    "for": 29,
                     "drawn": 11,
-                    "played": 27
+                    "played": 28
                 },
                 "zone": "Play-offs (down)",
                 "name": "Brighton & Hove Albion",
@@ -535,35 +503,67 @@
                 },
                 "away-matches": {
                     "lost": 5,
-                    "against": 16,
-                    "won": 4,
-                    "for": 14,
+                    "against": 17,
+                    "won": 5,
+                    "for": 16,
                     "drawn": 4,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 21,
-                "position": 17,
-                "total-points": 26
+                "position": 16,
+                "total-points": 29
             },
             {
                 "all-matches": {
-                    "lost": 12,
-                    "against": 33,
-                    "goal-difference": -11,
+                    "lost": 14,
+                    "against": 45,
+                    "goal-difference": -17,
+                    "won": 7,
+                    "for": 28,
+                    "drawn": 7,
+                    "played": 28
+                },
+                "zone": "Play-offs (down)",
+                "name": "Newcastle United",
+                "home-matches": {
+                    "lost": 6,
+                    "against": 23,
+                    "won": 4,
+                    "for": 17,
+                    "drawn": 4,
+                    "played": 14
+                },
+                "away-matches": {
+                    "lost": 8,
+                    "against": 22,
+                    "won": 3,
+                    "for": 11,
+                    "drawn": 3,
+                    "played": 14
+                },
+                "id": 15,
+                "position": 17,
+                "total-points": 28
+            },
+            {
+                "all-matches": {
+                    "lost": 13,
+                    "against": 36,
+                    "goal-difference": -14,
                     "won": 5,
                     "for": 22,
                     "drawn": 11,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Relegation",
                 "name": "Fulham",
                 "home-matches": {
-                    "lost": 8,
-                    "against": 18,
+                    "lost": 9,
+                    "against": 21,
                     "won": 2,
                     "for": 8,
                     "drawn": 4,
-                    "played": 14
+                    "played": 15
                 },
                 "away-matches": {
                     "lost": 4,
@@ -579,13 +579,13 @@
             },
             {
                 "all-matches": {
-                    "lost": 16,
-                    "against": 56,
-                    "goal-difference": -36,
+                    "lost": 17,
+                    "against": 57,
+                    "goal-difference": -37,
                     "won": 3,
                     "for": 20,
                     "drawn": 9,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Relegation",
                 "name": "West Bromwich Albion",
@@ -598,12 +598,12 @@
                     "played": 15
                 },
                 "away-matches": {
-                    "lost": 8,
-                    "against": 23,
+                    "lost": 9,
+                    "against": 24,
                     "won": 1,
                     "for": 11,
                     "drawn": 4,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 20,
                 "position": 19,
@@ -611,13 +611,13 @@
             },
             {
                 "all-matches": {
-                    "lost": 22,
-                    "against": 45,
-                    "goal-difference": -29,
+                    "lost": 23,
+                    "against": 50,
+                    "goal-difference": -34,
                     "won": 4,
                     "for": 16,
                     "drawn": 2,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Relegation",
                 "name": "Sheffield United",
@@ -630,12 +630,12 @@
                     "played": 15
                 },
                 "away-matches": {
-                    "lost": 11,
-                    "against": 23,
+                    "lost": 12,
+                    "against": 28,
                     "won": 1,
                     "for": 6,
                     "drawn": 1,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 38,
                 "position": 20,
