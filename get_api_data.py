@@ -30,15 +30,15 @@ def make_requests():
 
 def store_responses():
 	""" store responses in json file """
-	file = 'league_table.json'
+	file = 'data/league_table.json'
 	with open(file, 'w') as f:
 		json.dump(r.json(), f, indent=4,)
 
-	file = 'form_guide.json'
+	file = 'data/form_guide.json'
 	with open(file, 'w') as f:
 		json.dump(r2.json(), f, indent=4,)
 
-	file = 'fixtures_data.json'
+	file = 'data/fixtures_data.json'
 	with open(file, 'w') as f:
 		json.dump(r3.json(), f, indent=4,)
 

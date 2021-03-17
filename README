@@ -1,0 +1,7 @@
+This is a practice project which extracts premier league data from an api, stores it and also makes instsances of the premier league teams using real data. 
+
+1. First extract the football data from the api by running get_api_data. (API keys will need to be provided for this).
+
+2. Run football.py. This will store the data in JSON files and into the variables.
+
+3. Run team.py. This takes the data stored in the variables and assigns them to the class model. A for-loop then makes 20 team instances and populates their attributes with the downloaded data. The class also creates additional attributes based on the data such as defence and attack ratings.
