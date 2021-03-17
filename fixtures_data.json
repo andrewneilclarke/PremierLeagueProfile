@@ -1257,20 +1257,22 @@
                 "id": 371525,
                 "time": "16:30",
                 "home-team": {
-                    "score": 0,
+                    "score": 2,
+                    "half-time-score": 1,
                     "name": "Arsenal",
                     "id": 1
                 },
-                "referee": "M. Oliver",
+                "referee": "Michael Oliver",
                 "away-team": {
-                    "score": 0,
+                    "score": 1,
+                    "half-time-score": 1,
                     "name": "Tottenham Hotspur",
                     "id": 19
                 },
                 "attendance": 0,
                 "status": {
-                    "short": "4.30pm",
-                    "full": "Kick off 4.30pm"
+                    "short": "FT",
+                    "full": "Full Time"
                 }
             },
             {
@@ -1330,14 +1332,14 @@
                 }
             },
             {
-                "date": "2021-04-03",
+                "date": "2021-04-04",
                 "venue": "Emirates Stadium",
                 "competition": {
                     "name": "Premier League",
                     "id": 1
                 },
-                "id": 352539,
-                "time": "15:00",
+                "id": 371945,
+                "time": "16:30",
                 "home-team": {
                     "score": 0,
                     "name": "Arsenal",
@@ -1350,19 +1352,19 @@
                 },
                 "attendance": 0,
                 "status": {
-                    "short": "3pm",
-                    "full": "Kick off 3pm"
+                    "short": "4.30pm",
+                    "full": "Kick off 4.30pm"
                 }
             },
             {
-                "date": "2021-04-10",
+                "date": "2021-04-11",
                 "venue": "Bramall Lane",
                 "competition": {
                     "name": "Premier League",
                     "id": 1
                 },
-                "id": 352555,
-                "time": "15:00",
+                "id": 371953,
+                "time": "19:00",
                 "home-team": {
                     "score": 0,
                     "name": "Sheffield United",
@@ -1375,8 +1377,8 @@
                 },
                 "attendance": 0,
                 "status": {
-                    "short": "3pm",
-                    "full": "Kick off 3pm"
+                    "short": "7pm",
+                    "full": "Kick off 7pm"
                 }
             },
             {

@@ -35,6 +35,38 @@
             },
             {
                 "all-matches": {
+                    "lost": 4,
+                    "against": 32,
+                    "goal-difference": 24,
+                    "won": 16,
+                    "for": 56,
+                    "drawn": 9,
+                    "played": 29
+                },
+                "zone": "Promotion",
+                "name": "Manchester United",
+                "home-matches": {
+                    "lost": 4,
+                    "against": 19,
+                    "won": 7,
+                    "for": 29,
+                    "drawn": 3,
+                    "played": 14
+                },
+                "away-matches": {
+                    "lost": 0,
+                    "against": 13,
+                    "won": 9,
+                    "for": 27,
+                    "drawn": 6,
+                    "played": 15
+                },
+                "id": 13,
+                "position": 2,
+                "total-points": 57
+            },
+            {
+                "all-matches": {
                     "lost": 7,
                     "against": 32,
                     "goal-difference": 21,
@@ -62,40 +94,8 @@
                     "played": 15
                 },
                 "id": 30,
-                "position": 2,
-                "total-points": 56
-            },
-            {
-                "all-matches": {
-                    "lost": 4,
-                    "against": 32,
-                    "goal-difference": 23,
-                    "won": 15,
-                    "for": 55,
-                    "drawn": 9,
-                    "played": 28
-                },
-                "zone": "Promotion",
-                "name": "Manchester United",
-                "home-matches": {
-                    "lost": 4,
-                    "against": 19,
-                    "won": 6,
-                    "for": 28,
-                    "drawn": 3,
-                    "played": 13
-                },
-                "away-matches": {
-                    "lost": 0,
-                    "against": 13,
-                    "won": 9,
-                    "for": 27,
-                    "drawn": 6,
-                    "played": 15
-                },
-                "id": 13,
                 "position": 3,
-                "total-points": 54
+                "total-points": 56
             },
             {
                 "all-matches": {
@@ -131,13 +131,13 @@
             },
             {
                 "all-matches": {
-                    "lost": 7,
-                    "against": 31,
-                    "goal-difference": 11,
+                    "lost": 8,
+                    "against": 32,
+                    "goal-difference": 10,
                     "won": 14,
                     "for": 42,
                     "drawn": 6,
-                    "played": 27
+                    "played": 28
                 },
                 "zone": "Play-offs",
                 "name": "West Ham United",
@@ -150,16 +150,48 @@
                     "played": 14
                 },
                 "away-matches": {
-                    "lost": 4,
-                    "against": 16,
+                    "lost": 5,
+                    "against": 17,
                     "won": 6,
                     "for": 19,
                     "drawn": 3,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 42,
                 "position": 5,
                 "total-points": 48
+            },
+            {
+                "all-matches": {
+                    "lost": 9,
+                    "against": 36,
+                    "goal-difference": 12,
+                    "won": 13,
+                    "for": 48,
+                    "drawn": 7,
+                    "played": 29
+                },
+                "zone": "Play-offs",
+                "name": "Liverpool",
+                "home-matches": {
+                    "lost": 6,
+                    "against": 18,
+                    "won": 7,
+                    "for": 22,
+                    "drawn": 2,
+                    "played": 15
+                },
+                "away-matches": {
+                    "lost": 3,
+                    "against": 18,
+                    "won": 6,
+                    "for": 26,
+                    "drawn": 5,
+                    "played": 14
+                },
+                "id": 11,
+                "position": 6,
+                "total-points": 46
             },
             {
                 "all-matches": {
@@ -171,7 +203,7 @@
                     "drawn": 4,
                     "played": 28
                 },
-                "zone": "Play-offs",
+                "zone": "Play-offs (down)",
                 "name": "Everton",
                 "home-matches": {
                     "lost": 7,
@@ -190,18 +222,18 @@
                     "played": 14
                 },
                 "id": 9,
-                "position": 6,
+                "position": 7,
                 "total-points": 46
             },
             {
                 "all-matches": {
-                    "lost": 8,
-                    "against": 28,
-                    "goal-difference": 18,
+                    "lost": 9,
+                    "against": 30,
+                    "goal-difference": 17,
                     "won": 13,
-                    "for": 46,
+                    "for": 47,
                     "drawn": 6,
-                    "played": 27
+                    "played": 28
                 },
                 "zone": "Play-offs (down)",
                 "name": "Tottenham Hotspur",
@@ -214,48 +246,16 @@
                     "played": 14
                 },
                 "away-matches": {
-                    "lost": 4,
-                    "against": 14,
+                    "lost": 5,
+                    "against": 16,
                     "won": 6,
-                    "for": 21,
+                    "for": 22,
                     "drawn": 3,
-                    "played": 13
+                    "played": 14
                 },
                 "id": 19,
-                "position": 7,
-                "total-points": 45
-            },
-            {
-                "all-matches": {
-                    "lost": 9,
-                    "against": 36,
-                    "goal-difference": 11,
-                    "won": 12,
-                    "for": 47,
-                    "drawn": 7,
-                    "played": 28
-                },
-                "zone": "Play-offs (down)",
-                "name": "Liverpool",
-                "home-matches": {
-                    "lost": 6,
-                    "against": 18,
-                    "won": 7,
-                    "for": 22,
-                    "drawn": 2,
-                    "played": 15
-                },
-                "away-matches": {
-                    "lost": 3,
-                    "against": 18,
-                    "won": 5,
-                    "for": 25,
-                    "drawn": 5,
-                    "played": 13
-                },
-                "id": 11,
                 "position": 8,
-                "total-points": 43
+                "total-points": 45
             },
             {
                 "all-matches": {
@@ -292,22 +292,22 @@
             {
                 "all-matches": {
                     "lost": 11,
-                    "against": 28,
-                    "goal-difference": 7,
-                    "won": 11,
-                    "for": 35,
+                    "against": 29,
+                    "goal-difference": 8,
+                    "won": 12,
+                    "for": 37,
                     "drawn": 5,
-                    "played": 27
+                    "played": 28
                 },
                 "zone": "Play-offs (down)",
                 "name": "Arsenal",
                 "home-matches": {
                     "lost": 5,
-                    "against": 14,
-                    "won": 5,
-                    "for": 16,
+                    "against": 15,
+                    "won": 6,
+                    "for": 18,
                     "drawn": 3,
-                    "played": 13
+                    "played": 14
                 },
                 "away-matches": {
                     "lost": 6,
@@ -319,7 +319,7 @@
                 },
                 "id": 1,
                 "position": 10,
-                "total-points": 38
+                "total-points": 41
             },
             {
                 "all-matches": {
@@ -387,23 +387,23 @@
             },
             {
                 "all-matches": {
-                    "lost": 11,
-                    "against": 37,
-                    "goal-difference": -9,
+                    "lost": 12,
+                    "against": 38,
+                    "goal-difference": -10,
                     "won": 9,
                     "for": 28,
                     "drawn": 8,
-                    "played": 28
+                    "played": 29
                 },
                 "zone": "Play-offs (down)",
                 "name": "Wolverhampton Wanderers",
                 "home-matches": {
-                    "lost": 4,
-                    "against": 14,
+                    "lost": 5,
+                    "against": 15,
                     "won": 5,
                     "for": 15,
                     "drawn": 4,
-                    "played": 13
+                    "played": 14
                 },
                 "away-matches": {
                     "lost": 7,
