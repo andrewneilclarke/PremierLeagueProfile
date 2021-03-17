@@ -13,7 +13,7 @@ with open(path) as f:
 	keys = json.load(f)
 api_key = keys['api_key']
 #set other api variables
-querystring = {"comp":"1","team":"1","round":"1"}
+querystring = {"comp":"1","team":"1"}
 headers = {'x-rapidapi-key': api_key, 'x-rapidapi-host': "football-web-pages1.p.rapidapi.com"} 
 r = ""
 r2 = ""
@@ -24,7 +24,7 @@ def make_requests():
 	global r, r2, r3, querystring
 	r = requests.request("GET", table_url, headers=headers, params=querystring)
 	r2 = requests.request("GET", form_url, headers=headers, params=querystring)
-	querystring = {"comp":"1","team":"1","round":"1"}
+	querystring = {"comp":"1"}
 	r3 = requests.request("GET", fixtures_url, headers=headers, params=querystring)
 	
 

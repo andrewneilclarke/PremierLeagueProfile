@@ -76,8 +76,30 @@ def print_table():
     for team in teams:
         print(team.name, team.played, team.won, team.drawn, team.lost, team.gf, 
                 team.ga, team.gd, team.form_rating, team.home_team)
+def print_home_table():
+    for team in teams:
+        print(team.name + " " + team.home_team)
 
-for team in teams:
-    print(team.name + " " +team.home_team)
+def print_away_table():
+    for team in teams:
+        print(team.name + " " + team.away_team)
 
-print_table()
+def print_form_table():
+    for team in teams:
+        print(team.name + " " + (str(team.form_rating)))
+        
+def next_fixtures():
+    #print fixtures (next 7 days)
+    for fixture in f.next_fixtures:
+        print(fixture['home-team']['name'] + " v " + fixture['away-team']['name'])
+
+next_fixtures()
+#print_remaining_fixtures()
+
+
+#     print(fixture['home-team']['score'])
+#print(f.remaining_fixtures[0]['home-team']['score'])
+#print(f.remaining_fixtures[0:10])
+# #rint_form_table()
+# print_table()
+# print_away_table()

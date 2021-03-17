@@ -1,5 +1,6 @@
 import get_api_data
 import json
+from datetime import datetime, timedelta
 
 #retrieve league table response data
 file = 'data/league_table.json'
@@ -29,7 +30,23 @@ with open(file, 'r') as f:
   fixtures_data = json.load(f)
 
 # export fixtures data to new file
-team_fixtures_data = fixtures_data['fixtures-results']['team']
+team_fixtures_data = fixtures_data['fixtures-results']['matches']
 file = 'data/teams_fixtures_data.json'
 with open(file, 'w') as f:
   json.dump(team_fixtures_data, f)
+
+# filter for next fixtures
+next_fixtures = []
+for match in team_fixtures_data:
+	match['date'] = datetime.strptime(match['date'], "%Y-%m-%d")
+for match in team_fixtures_data:
+	if match['date'] > datetime.today() and match['date'] < datetime.today() + timedelta(days=7):
+		next_fixtures.append(match)
+for match in next_fixtures:
+	match['date'] = match['date'].strftime("%Y-%m-%d")
+
+
+
+# file = 'data/remaining_fixtures_data.json'
+# with open(file, 'w') as f:
+#   json.dump(remaining_fixtures, f)
